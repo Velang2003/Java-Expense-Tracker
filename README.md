@@ -20,7 +20,7 @@ Expense Tracker is a Java-based desktop application designed to help users manag
    ```
 
 
-#* BUILD OUTPUT DESCRIPTION *#
+# *BUILD OUTPUT DESCRIPTION*
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
