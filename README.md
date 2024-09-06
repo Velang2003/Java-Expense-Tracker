@@ -19,9 +19,8 @@ Expense Tracker is a Java-based desktop application designed to help users manag
    https://github.com/Velang2003/Expense-Tracker.git
    ```
 
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+
+#* BUILD OUTPUT DESCRIPTION *#
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
@@ -74,4 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Java Development Kit (JDK 17)
 - Java NetBeans
-- 
