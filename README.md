@@ -32,7 +32,7 @@ JAR files manifest file (MANIFEST.MF).
 type the following:
 
 ```
-java -jar "Expence_Tracker.jar" 
+java -jar ExpenceTracker/dist/Expence_Tracker.jar
 ```
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
